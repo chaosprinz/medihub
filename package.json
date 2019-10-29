@@ -4,6 +4,7 @@
   "description": "Connect spotify, youtube, netflix, etc., even your local files, into a feature-rich Web-based frontend.",
   "main": "index.js",
   "scripts": {
+    "dev": "node dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
