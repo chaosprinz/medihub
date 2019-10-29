@@ -1,0 +1,20 @@
+{
+  "name": "medihub",
+  "version": "1.0.0",
+  "description": "Connect spotify, youtube, netflix, etc., even your local files, into a feature-rich Web-based frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosprin76/medihub.git"
+  },
+  "keywords": [],
+  "author": "Siggi Dünkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaosprin76/medihub/issues"
+  },
+  "homepage": "https://github.com/chaosprin76/medihub#readme"
+}
